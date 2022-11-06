@@ -5,6 +5,8 @@ To get started, you may open a terminal and run:
 
 Running the above command will automatically start the web-app's server.
 
+You can then follow the link that will be outputted by your terminal.
+
 You may choose to either type your expressions or upload a Text file with your expressions on their own respective lines.
 
 When typing expressions, multiplication is not implied by "()", so you must use "*" to indicate multiplication.
